@@ -64,10 +64,10 @@ button {
 button:hover {
   background-color: rgba(21, 48, 73, 0.5);
 }
-.banner__image {
-  width: 60%;
-  height: 50%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+#banner__image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-radius: 10px;
 }
